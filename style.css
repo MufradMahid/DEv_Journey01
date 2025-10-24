@@ -1,0 +1,20 @@
+.n1{
+    color: yellow;
+    font: 32px;
+}
+.n2{
+    color: pink;
+    font: 32px;
+}
+.n3{
+    color: orange;
+    font: 32px;
+}
+.n4{
+    color: cyan;
+    font: 32px;
+}
+.button{
+    flex: auto;
+    padding: 2.5px;
+}
